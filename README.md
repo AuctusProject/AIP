@@ -1,3 +1,4 @@
+![logo](https://i.ibb.co/Pz4r6sy/logo.png)
 # AIP - Auctus Improvement Proposals
 Auctus Improvement Proposal are the preferred mechanism for improving Auctus Governance and protocol. Through an open and documented process, community feedback will be collected to reach the broadest possible consensus on how the Auctus should evolve.
 
